@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">NewsApp</string>
+    <string name="todays_news">Latest News</string>
+    <string name="news_detail">News Details</string>
+    <string name="no_events_available">No News Available...</string>
+
+</resources>

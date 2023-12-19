@@ -1,0 +1,43 @@
+{
+  "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "CNBC"
+      },
+      "author": "Hakyung Kim",
+      "title": "Stock futures are all rise after major averages rally for seven consecutive weeks: Live updates - CNBC",
+      "description": "The Dow Jones Industrial Average recorded a new intraday record on Friday, and the Nasdaq 100 had a new closing high.",
+      "url": "https://www.cnbc.com/2023/12/17/stock-futures-are-little-changed-after-major-averages-rally-for-seven-consecutive-weeks-live-updates.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/107347379-17025005642023-12-13t204555z_488020625_rc2jw4a133y9_rtrmadp_0_usa-stocks.jpeg?v=1702500622&w=1920&h=1080",
+      "publishedAt": "2023-12-18T05:43:00Z",
+      "content": "U.S. stock futures climbed on Monday morning after the three major averages notched their seventh straight week of gains. The Dow Jones Industrial Average recorded a new intraday record, and the Nasd… [+1488 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "YouTube"
+      },
+      "author": null,
+      "title": "Bloomberg Markets: China Open 12/18/2023 - Bloomberg Television",
+      "description": "Bloomberg Markets: China Open\" is the definitive guide to the markets in Hong Kong and on the mainland. Rishaad Salamat and Annabelle Droulers bring you the ...",
+      "url": "https://www.youtube.com/watch?v=hmZDY85qFPU",
+      "urlToImage": "https://i.ytimg.com/vi/hmZDY85qFPU/maxresdefault.jpg",
+      "publishedAt": "2023-12-18T04:01:47Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "WPBF West Palm Beach"
+      },
+      "author": "Viviana Lopez",
+      "title": "Ft. Lauderdale-Hollywood International Airport back to normal operations - WPBF West Palm Beach",
+      "description": "Terminal 1 was evacuated at the Ft. Lauderdale-Hollywood International Airport.",
+      "url": "https://www.wpbf.com/article/bomb-threat-evacuates-terminal-1-at-ft-lauderdale-hollywood-international-airport/46157294",
+      "urlToImage": "https://kubrick.htvapps.com/htv-prod-media.s3.amazonaws.com/images/fort-lauderdale-airport-657fbaaab4319.jpg?crop=1.00xw:0.753xh;0,0&resize=1200:*",
+      "publishedAt": "2023-12-18T03:26:00Z",
+      "content": "FORT LAUDERDALE, Fla. — The Ft. Lauderdale-Hollywood International Airport has resumed back to normal operations after receiving a bomb threat.\r\nTerminal 1 was evacuated at the Ft. Lauderdale-Hollywo… [+1151 chars]"
+    }
+  ]
+}
