@@ -17,9 +17,11 @@ import retrofit2.converter.gson.GsonConverterFactory
 import retrofit2.create
 import java.net.HttpURLConnection
 
-/*Created By Tejas Dani on 18/Dec/2023
+/*
+Created By Tejas Dani on 18/Dec/2023
 * to test API using mock server
-* */
+*
+*/
 
 class GetNewsListUnitTest {
 
