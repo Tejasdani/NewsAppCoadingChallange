@@ -61,7 +61,6 @@ public class NewsRepositoryTest {
         }
         mockWebServer.enqueue(new MockResponse().setBody(mockResponse).setResponseCode(200));
 
-        // Act
         NewsResponse result = LiveDataTestUtil.getValue(newsRepository.getNewsList("us", "business", 10, "apiKey"));
 
         // Assert

@@ -28,7 +28,6 @@ public class LiveDataTestUtil {
             throw new InterruptedException("LiveData value not set within timeout");
         }
 
-        //noinspection unchecked
         return (T) data[0];
     }
 

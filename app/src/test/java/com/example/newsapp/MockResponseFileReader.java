@@ -13,7 +13,7 @@ public class MockResponseFileReader {
         InputStream inputStream = getClass().getClassLoader().getResourceAsStream(path);
 
         if (inputStream == null) {
-            throw new IllegalArgumentException("File not found: " + path);
+            throw new IllegalArgumentException("File not found:  " + path);
         }
 
         StringBuilder stringBuilder = new StringBuilder();
